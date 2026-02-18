@@ -90,7 +90,7 @@ This makes the problem a **Binary Classification Task**.
 
 ##  Suitable Machine Learning Models
 
-Given the dataset structure, the following models are appropriate:
+Based on the dataset structure, the following models are appropriate:
 
 - Logistic Regression  
 - Random Forest  
