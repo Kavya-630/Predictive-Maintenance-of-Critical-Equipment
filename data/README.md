@@ -25,6 +25,7 @@ The dataset contains variables related to cold rolling mill operations. The feat
 - `pass_nr` → Rolling pass number  
 
 These parameters help track rolling stages and production batches.
+
 ---
 
 ### B. Thickness Control Parameters
