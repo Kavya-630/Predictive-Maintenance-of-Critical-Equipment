@@ -81,8 +81,9 @@ These chemical properties influence rolling behavior, deformation characteristic
 
 **Interpretation:**
 
-- `0` → Normal / Acceptable process condition  
-- `1` → Suboptimal / Deviation / Fault scenario  
+- `0` → Category A 
+- `1` → Category B
+-  
 
 This makes the problem a **Binary Classification Task**.
 
